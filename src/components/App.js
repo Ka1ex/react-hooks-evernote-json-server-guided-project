@@ -3,6 +3,12 @@ import Header from "./Header";
 import NoteContainer from "./NoteContainer";
 
 function App() {
+
+  
+  
+  
+
+
   return (
     <div className="app">
       <Header />
